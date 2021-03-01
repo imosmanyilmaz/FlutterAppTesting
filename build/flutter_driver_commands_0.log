@@ -1,0 +1,133 @@
+2021-02-28 17:01:28.111108 >>> {command: get_health}
+2021-02-28 17:01:29.981468 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:01:30.193061 >>> {command: scroll, finderType: ByType, type: ListView, dx: 0.0, dy: -7000.0, duration: 1000000, frequency: 60}
+2021-02-28 17:01:32.564707 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:01:32.565697 >>> {command: scroll, finderType: ByType, type: ListView, dx: 0.0, dy: 7000.0, duration: 1000000, frequency: 60}
+2021-02-28 17:01:34.542219 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:01:35.652758 >>> {command: tap, finderType: ByValueKey, keyValueString: icon_0, keyValueType: String}
+2021-02-28 17:01:35.769160 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:01:35.770467 >>> {command: waitFor, finderType: ByText, text: Favorilere Eklendi}
+2021-02-28 17:01:36.054064 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:01:36.054518 >>> {command: tap, finderType: ByValueKey, keyValueString: icon_1, keyValueType: String}
+2021-02-28 17:01:36.073593 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:01:36.074205 >>> {command: waitFor, finderType: ByText, text: Favorilere Eklendi}
+2021-02-28 17:01:36.309075 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:01:36.309859 >>> {command: tap, finderType: ByValueKey, keyValueString: icon_2, keyValueType: String}
+2021-02-28 17:01:36.328405 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:01:36.329021 >>> {command: waitFor, finderType: ByText, text: Favorilere Eklendi}
+2021-02-28 17:01:36.570044 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:01:36.570751 >>> {command: tap, finderType: ByText, text: Favorilerim}
+2021-02-28 17:01:36.635819 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:01:36.636288 >>> {command: tap, finderType: ByValueKey, keyValueString: remove_icon_0, keyValueType: String}
+2021-02-28 17:01:37.000460 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:01:37.001317 >>> {command: waitFor, finderType: ByText, text: Favorilerden Kaldırıldı}
+2021-02-28 17:10:58.069555 >>> {command: get_health}
+2021-02-28 17:11:00.020137 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:11:00.246270 >>> {command: scroll, finderType: ByType, type: ListView, dx: 0.0, dy: -7000.0, duration: 1000000, frequency: 60}
+2021-02-28 17:11:02.350662 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:11:02.351438 >>> {command: scroll, finderType: ByType, type: ListView, dx: 0.0, dy: 7000.0, duration: 1000000, frequency: 60}
+2021-02-28 17:11:04.247357 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:11:04.979602 >>> {command: tap, finderType: ByValueKey, keyValueString: icon_0, keyValueType: String}
+2021-02-28 17:11:05.153007 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:11:05.154930 >>> {command: waitFor, finderType: ByText, text: Favorilere Eklendi}
+2021-02-28 17:11:05.450187 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:11:05.450887 >>> {command: tap, finderType: ByValueKey, keyValueString: icon_1, keyValueType: String}
+2021-02-28 17:11:05.470777 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:11:05.471264 >>> {command: waitFor, finderType: ByText, text: Favorilere Eklendi}
+2021-02-28 17:11:05.706693 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:11:05.707163 >>> {command: tap, finderType: ByValueKey, keyValueString: icon_2, keyValueType: String}
+2021-02-28 17:11:05.724452 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:11:05.724878 >>> {command: waitFor, finderType: ByText, text: Favorilere Eklendi}
+2021-02-28 17:11:05.956095 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:11:05.956528 >>> {command: tap, finderType: ByText, text: Favorilerim}
+2021-02-28 17:11:06.020505 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:11:06.021221 >>> {command: tap, finderType: ByValueKey, keyValueString: remove_icon_0, keyValueType: String}
+2021-02-28 17:11:06.425745 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:11:06.426495 >>> {command: waitFor, finderType: ByText, text: Favorilerden Kaldırıldı}
+2021-02-28 17:12:13.629924 >>> {command: get_health}
+2021-02-28 17:12:14.646885 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:12:14.682722 >>> {command: scroll, finderType: ByType, type: ListView, dx: 0.0, dy: -7000.0, duration: 1000000, frequency: 60}
+2021-02-28 17:12:16.600581 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:12:16.601034 >>> {command: scroll, finderType: ByType, type: ListView, dx: 0.0, dy: 7000.0, duration: 1000000, frequency: 60}
+2021-02-28 17:12:18.500379 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:12:19.213192 >>> {command: tap, finderType: ByValueKey, keyValueString: icon_0, keyValueType: String}
+2021-02-28 17:12:19.324653 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:12:19.326390 >>> {command: waitFor, finderType: ByText, text: Favorilere Eklendi}
+2021-02-28 17:12:19.648684 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:12:19.649361 >>> {command: tap, finderType: ByValueKey, keyValueString: icon_1, keyValueType: String}
+2021-02-28 17:12:19.662442 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:12:19.662835 >>> {command: waitFor, finderType: ByText, text: Favorilere Eklendi}
+2021-02-28 17:12:19.887270 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:12:19.887962 >>> {command: tap, finderType: ByValueKey, keyValueString: icon_2, keyValueType: String}
+2021-02-28 17:12:19.900781 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:12:19.901158 >>> {command: waitFor, finderType: ByText, text: Favorilere Eklendi}
+2021-02-28 17:12:20.133170 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:12:20.133862 >>> {command: tap, finderType: ByText, text: Favorilerim}
+2021-02-28 17:12:20.183951 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:12:20.184452 >>> {command: tap, finderType: ByValueKey, keyValueString: remove_icon_0, keyValueType: String}
+2021-02-28 17:12:20.554596 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:12:20.555304 >>> {command: waitFor, finderType: ByText, text: Favorilerden Kaldırıldı}
+2021-02-28 17:13:39.424292 >>> {command: get_health}
+2021-02-28 17:13:40.481502 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:13:40.522966 >>> {command: scroll, finderType: ByType, type: ListView, dx: 0.0, dy: -7000.0, duration: 1000000, frequency: 60}
+2021-02-28 17:13:42.519761 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:13:42.520507 >>> {command: scroll, finderType: ByType, type: ListView, dx: 0.0, dy: 7000.0, duration: 1000000, frequency: 60}
+2021-02-28 17:13:44.407305 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:13:45.208638 >>> {command: tap, finderType: ByValueKey, keyValueString: icon_0, keyValueType: String}
+2021-02-28 17:13:45.406972 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:13:45.408921 >>> {command: waitFor, finderType: ByText, text: Favorilere Eklendi}
+2021-02-28 17:13:45.694205 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:13:45.694895 >>> {command: tap, finderType: ByValueKey, keyValueString: icon_1, keyValueType: String}
+2021-02-28 17:13:45.709135 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:13:45.709534 >>> {command: waitFor, finderType: ByText, text: Favorilere Eklendi}
+2021-02-28 17:13:45.949441 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:13:45.950074 >>> {command: tap, finderType: ByValueKey, keyValueString: icon_2, keyValueType: String}
+2021-02-28 17:13:45.966982 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:13:45.967378 >>> {command: waitFor, finderType: ByText, text: Favorilere Eklendi}
+2021-02-28 17:13:46.200419 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:13:46.201131 >>> {command: tap, finderType: ByText, text: Favorilerim}
+2021-02-28 17:13:46.266622 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:13:46.267118 >>> {command: tap, finderType: ByValueKey, keyValueString: remove_icon_0, keyValueType: String}
+2021-02-28 17:13:46.623404 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:13:46.624097 >>> {command: waitFor, finderType: ByText, text: Favorilerden Kaldırıldı}
+2021-02-28 17:13:46.917733 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:13:46.918398 >>> {command: tap, finderType: ByValueKey, keyValueString: remove_icon_1, keyValueType: String}
+2021-02-28 17:13:46.938086 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:13:46.938519 >>> {command: waitFor, finderType: ByText, text: Favorilerden Kaldırıldı}
+2021-02-28 17:13:47.162434 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:13:47.163110 >>> {command: tap, finderType: ByValueKey, keyValueString: remove_icon_2, keyValueType: String}
+2021-02-28 17:13:47.176760 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:13:47.177178 >>> {command: waitFor, finderType: ByText, text: Favorilerden Kaldırıldı}
+2021-02-28 17:13:47.218020 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:20:47.760614 >>> {command: get_health}
+2021-02-28 17:20:48.847445 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:20:48.891524 >>> {command: scroll, finderType: ByType, type: ListView, dx: 0.0, dy: -7000.0, duration: 1000000, frequency: 60}
+2021-02-28 17:20:51.403744 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:20:51.404268 >>> {command: scroll, finderType: ByType, type: ListView, dx: 0.0, dy: 7000.0, duration: 1000000, frequency: 60}
+2021-02-28 17:20:53.568527 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:20:54.942483 >>> {command: tap, finderType: ByValueKey, keyValueString: icon_0, keyValueType: String}
+2021-02-28 17:20:55.191651 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:20:55.193238 >>> {command: waitFor, finderType: ByText, text: Favorilere Eklendi}
+2021-02-28 17:20:55.524876 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:20:55.525326 >>> {command: tap, finderType: ByValueKey, keyValueString: icon_1, keyValueType: String}
+2021-02-28 17:20:55.559115 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:20:55.559612 >>> {command: waitFor, finderType: ByText, text: Favorilere Eklendi}
+2021-02-28 17:20:55.796548 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:20:55.796954 >>> {command: tap, finderType: ByValueKey, keyValueString: icon_2, keyValueType: String}
+2021-02-28 17:20:55.818067 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:20:55.819055 >>> {command: waitFor, finderType: ByText, text: Favorilere Eklendi}
+2021-02-28 17:20:56.045422 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:20:56.046446 >>> {command: tap, finderType: ByText, text: Favorilerim}
+2021-02-28 17:20:56.128598 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:20:56.129164 >>> {command: tap, finderType: ByValueKey, keyValueString: remove_icon_0, keyValueType: String}
+2021-02-28 17:20:56.516239 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:20:56.516791 >>> {command: waitFor, finderType: ByText, text: Favorilerden Kaldırıldı}
+2021-02-28 17:20:56.811649 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:20:56.812183 >>> {command: tap, finderType: ByValueKey, keyValueString: remove_icon_1, keyValueType: String}
+2021-02-28 17:20:56.829317 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:20:56.829806 >>> {command: waitFor, finderType: ByText, text: Favorilerden Kaldırıldı}
+2021-02-28 17:20:57.047639 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:20:57.048174 >>> {command: tap, finderType: ByValueKey, keyValueString: remove_icon_2, keyValueType: String}
+2021-02-28 17:20:57.061812 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2021-02-28 17:20:57.062282 >>> {command: waitFor, finderType: ByText, text: Favorilerden Kaldırıldı}
+2021-02-28 17:20:57.097406 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
